@@ -1,6 +1,6 @@
 <HTML>
 
-  <head>
+	<head>
 		<style>
 			ul
 			{
@@ -42,7 +42,7 @@
 		</style>
 		
 	</head>
-	<!--Sets the colour of the background to black-->
+<!--Sets the colour of the background to black-->
 	<body style="background:black">
 		
 		<ul>
@@ -59,33 +59,16 @@
 					<!--The First Row-->
 					
 					<tr>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/New%20folder%20(5)/[Jinsukeya]%20Kaasan%20wa%20Boku%20no%20Mesuinu%20da%20[English]%20%7BLaruffii%7D/mesuinu24.png" height="250" width="250"> </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/Small%20lesson/Small%20lesson/013.jpg" height="250" width="250" > </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/Small%20lesson/Small%20lesson/014.jpg" height="250" width="250" > </a> </td>
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/770807414.jpeg" height="250" width="250"> </a> </td>
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/833726137.jpeg" height="250" width="250" > </a> </td>
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/album-year-0.jpg" height="250" width="250" > </a> </td>
 					</tr>
+					
 					<!--The Second Row-->
 					<tr>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/525399_497393246977352_1437625570_n.jpg" height="250" width="250"> </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/526735_488106861239324_493074920_n.jpg" height="250" width="250" > </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/559591_558284267526462_1950284775_n.jpg" width="300" height="350"> </a> </td>
-					</tr>
-					<!--The Third Row-->
-					<tr>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/New%20folder%20(4)/mama_doll22.jpg" height="250" width="250"> </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/New%20folder%20(4)/mama_doll23.jpg" height="250" width="250" > </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/New%20folder%20(4)/mama_doll29.jpg" width="300" height="350"> </a> </td>
-					</tr>
-					<!--The Fourth Row-->
-					<tr>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/wwe/513003061f68b.jpg" height="250" width="250"> </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/jgkg/ffgnfgn/517cc483595fa.jpg" height="250" width="250" > </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/jgkg/ffgnfgn/517cc48a3cc4a.jpg" width="300" height="350"> </a> </td>
-					</tr>
-					<!--The Fith Row-->
-					<tr>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/422294_513155435367154_554305237_n.jpg" height="250" width="250"> </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/wwe/5130030119ab8.jpg" height="250" width="250" > </a> </td>
-						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/New%20folder/aaa/82.jpg" width="300" height="350"> </a> </td>
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/cb0zakog23er.jpg" height="250" width="250"> </a> </td>
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/New%20folder%20(4)/mama_doll14.jpg" height="250" width="250" > </a> </td>
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/Pictures/New%20folder%20(4)/mama_doll15.jpg" height="250" width="250"> </a> </td>
 					</tr>
 				</p>
 			</p>
@@ -93,7 +76,7 @@
 		
 	<a href="images1.html" target="_blank">Page 1 </a>
 	<a href="images2.html" target="_blank">Page 2 </a>
-	<a href="Page3.html" target="_blank">Page 3 </a>
+	<a href="images3.html" target="_blank">Page 3 </a>
 	<a href="Page4.html" target="_blank">Page 4 </a>
 	<a href="Page5.html" target="_blank">Page 5 </a>
 	<a href="Page6.html" target="_blank">Page 6 </a>
