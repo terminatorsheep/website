@@ -1,0 +1,42 @@
+/*CSS Document */
+
+.lsidebar{
+  position:relative;
+	top:0px;
+	margin-top:0;
+	margin-left:0;
+	padding-left:0px;
+	list-style:none;
+	border-bottom:none;
+	float:left;
+	width:200px;
+	margin:0px;
+}
+
+ul.lsidebar li{
+	float:left;
+}
+
+ul.lsidebar a{
+	width:12em;
+	display:inline;
+	border:none;
+	padding:5px;
+	margin-right:0px;
+	background-color:#234f32;
+	text-decoration:none;
+	color:#ffc754;
+	text-align:center;
+}
+
+ul.lsidebar a:hover{
+	width:12em;
+	display:inline;
+	border:none;
+	padding:5px;
+	margin-right:10px;
+	background-color:#92cc47;
+	text-decoration:none;
+	color:#000;
+	text-align:center;
+}
