@@ -1,0 +1,75 @@
+<html>
+  <head>
+	
+		<style>
+		
+			ul
+			{
+				list-style-type:none;
+				margin:5;
+				padding:5;
+				overfolw:hiden;
+				text-align: center
+			}
+			
+			li
+			{
+				display:inline;
+				float:left;
+				
+			}
+			
+			a:link,a:visited
+			{
+				display:block;
+				width:120px;
+				font-weight:bold;
+				color:#FFFFFF;
+				background-color:#98bf21;
+				text-align:center;
+				padding:4px;
+				text-decoration:none;
+				text-transform:uppercase;
+			}
+			
+			a:hover,a:active
+			{
+			background-color:#7A991A;
+			}
+			
+			table
+			{
+				image-align:auto
+			}
+			
+		
+		</style>
+		<link rel="stylesheet" type="text/css" href="NavigationMenu.css"/>
+	</head>
+	<body>
+		<div id="wrapper"> 
+			<div id="navMenu">
+				<ul>
+					<li><a href="#">GIFs</a>
+						<ul>
+							<a id="PageSwap" href="Page1.html" target="_blank">Page 1 </a>
+							<a href="Page2.html" target="_blank">Page 2 </a>
+							<a href="Page3.html" target="_blank">Page 3 </a>
+							<a href="Page4.html" target="_blank">Page 4 </a>
+							<a href="Page5.html" target="_blank">Page 5 </a>
+						</ul>
+					</li>
+				</ul> 
+			</div>
+		</div> 	
+		<ul class="lsidebar">	
+			<li><a href="Home Page.html">home</a></li>
+			<li><a href="page1.html">P.1 Gif</a></li>
+		</ul>
+		<ul>
+			<li><a href="Gifs.html">Teh Gigfs</a></li>
+			<li><a href="Home Page.html">Home Page</a></li>
+		</ul>
+	</body>
+
+</html>
