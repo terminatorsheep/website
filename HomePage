@@ -1,0 +1,103 @@
+<HTML>
+
+  <head>
+<!-- links the banner.css file 
+		<link href="HomeBanner.css" rel="stylesheet" type="text/css" />
+-->		
+		<style>
+			ul
+			{
+				list-style-type:none;
+				margin:5;
+				padding:5;
+				overfolw:hiden;
+				text-align: center
+			}
+			
+			li
+			{
+				display:inline;
+				float:left;
+			}
+			
+			a:link,a:visited
+			{
+				display:block;
+				width:120px;
+				font-weight:bold;
+				color:#FFFFFF;
+				background-color:#98bf21;
+				text-align:center;
+				padding:4px;
+				text-decoration:none;
+				text-transform:uppercase;
+			}
+			
+			a:hover,a:active
+			{
+			background-color:#7A991A;
+			}
+			
+			table
+			{
+				image-align:auto
+			}
+			
+		</style>
+		
+		<script>
+		
+			
+			/* The  Password */
+		
+			function displayPassword()
+			{
+				var strPassword="password"
+				var strUserResponce=""
+				
+				window.prompt("Please Enter The Correct Password.")
+				
+				if (strUserResponce==strPassword)
+				{
+					window.alert("Correct!");
+					document.getElementById("PageSwap").innerHTML= <a id="PageSwap" href="Page1.html" target="_blank"> Page 1</a>
+				}	
+				else
+				{
+					window.confirm("Incorrect! Please tryagain.");
+				}
+			}
+			
+			
+		</script>
+	</head>
+<!--Sets the colour of the background to black-->
+	<body background="file:C:\Users\terminator-sheep\Desktop\MinecraftBuild.jpg">
+		
+		<div align=”center”><img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/jgkg/cartoon_porno.at.ua_LAZY_TOWN_58.jpg" alt="Banner" width="415" height="62" border="0" align="middle"></div>
+		<ul>
+			<li><a href="Gifs.html">Teh Gigfs</a></li>
+			<li><a href="Gifs.html">s </a></li>	
+			<li><a href="Images.html">Meh Images</a></li>
+		</ul>
+
+		<table>			
+			<tr>
+
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+			</tr>
+
+		</table>
+		<div id="Banner"> <h1 style="color:teal"> Because Fuck You Thats Why </h1> </div>	
+		
+
+<!-- Password display -->				
+				<a href="PasswordEnterPage.html" target="_top" onclick="function displayPassword()"> <p> click here </p> </a>
+				
+	</body>
+	
+
+</HTML>
