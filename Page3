@@ -1,0 +1,83 @@
+<HTML>
+
+  <head>
+		<style>
+			ul
+			{
+				list-style-type:none;
+				margin:5;
+				padding:5;
+				overfolw:hiden;
+				text-align: center
+			}
+			
+			li
+			{
+				display:inline;
+				float:left;
+			}
+			
+			a:link,a:visited
+			{
+				display:block;
+				width:120px;
+				font-weight:bold;
+				color:#FFFFFF;
+				background-color:#98bf21;
+				text-align:center;
+				padding:4px;
+				text-decoration:none;
+				text-transform:uppercase;
+			}
+			
+			a:hover,a:active
+			{
+			background-color:#7A991A;
+			}
+			
+			table
+			{
+				image-align:auto
+			}
+		</style>
+	</head>
+<!--Sets the colour of the background to black-->
+	<body style="background:black">
+	
+		<ul>
+			<li><a href="Gifs.html">Teh Gigfs</a></li>
+			<li><a href="Home Page.html">Home Page </a></li>
+
+		</ul>
+		
+		<table>
+			
+			<!--The Fith Row-->
+			<tr>
+				<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/kAQwq.gif" height="500" width="350" > </a> </td>
+				<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/tumblr_me1s19l8FG1rluvz1o1_500.gif" height="500" width="500"> </a> </td>
+				<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/tumblr_mhr65qhuyW1rb8tmvo1_500.gif" height="500" width="500" > </a> </td>
+				<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/tumblr_mi6sieiW581rh1hlao1_400.gif" height="500" width="500" > </a> </td>
+			</tr>
+			
+			<!--The sixth Row-->
+			<tr>
+				<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/tumblr_mi44b02qyE1rvllfwo1_250.gif" height="500" width="400" > </a> </td>
+				<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/tumblr_mi44g6qQ0M1rvllfwo1_500.gif" height="500" width="500"> </a> </td>
+				<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/tumblr_mi44jmvz2A1rvllfwo1_250.gif" height="500" width="500" > </a> </td>
+				<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/tumblr_misrb3Sr9Z1rmckrzo1_500.gif" height="500" width="500" > </a> </td>
+			</tr>
+		</table>
+		
+	<a href="Page1.html" target="_blank">Page 1 </a>
+	<a href="Page2.html" target="_blank">Page 2 </a>
+	<a href="Page3.html" target="_blank">Page 3 </a>
+	<a href="Page4.html" target="_blank">Page 4 </a>
+	<a href="Page5.html" target="_blank">Page 5 </a>
+	<a href="Page6.html" target="_blank">Page 6 </a>
+	
+		
+	</body>
+	
+
+</HTML>
