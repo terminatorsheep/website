@@ -1,0 +1,100 @@
+<HTML>
+
+  <head>
+		<style>
+			ul
+			{
+				list-style-type:none;
+				margin:5;
+				padding:5;
+				overfolw:hiden;
+				text-align: center
+			}
+			
+			li
+			{
+				display:inline;
+				float:left;
+			}
+			
+			a:link,a:visited
+			{
+				display:block;
+				width:120px;
+				font-weight:bold;
+				color:#FFFFFF;
+				background-color:#98bf21;
+				text-align:center;
+				padding:4px;
+				text-decoration:none;
+				text-transform:uppercase;
+			}
+			
+			a:hover,a:active
+			{
+			background-color:#7A991A;
+			}
+			
+			table
+			{
+				image-align:auto
+			}
+		</style>
+		
+	</head>
+<!--Sets the colour of the background to black-->
+	<body style="background:black">
+		
+		<ul>
+			<li><a href="Gifs.html">Teh Gigfs</a></li>
+			<li><a href="Home Page.html">Home Page </a></li>
+
+		</ul>
+	
+		<table align="fixed">
+			
+			<p>
+				<p>
+					<!--The First Row-->
+					
+					<tr>
+						<!--<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/nigri-bouncing.gif" height="300" width="100" > </a> </td>-->
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/CutiePieMarziaBoobs.gif" height="200" width="200"> </a> </td>
+						<!--<td> <a> <img src="file:///C:/Users/terminator-sheep/Google%20Drive/MEH%20/%C2%A0/aTqw8k6.gif" height="500" width="500" > </a> </td>-->
+						<td> <a> <img src="http://acidcow.com/pics/20110624/bouncing_tits_01.gif" height="200" width="200" > </a> </td>
+					</tr>
+					
+					<!--The Second Row-->
+					<tr>
+						<!--<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/1363017119001.gif" height="500" width="350" > </a> </td>-->
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/1364945252054.gif" height="200" width="200"> </a> </td>
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/1365216598652.gif" height="200" width="200" > </a> </td>
+						<td> <a> <img src="file:///C:/Users/terminator-sheep/Desktop/%C2%A0/1365283645179.gif" height="200" width="200" > </a> </td>
+					</tr>
+				</p>
+			</p>
+		</table>
+			
+				<div id="wrapper"> 
+					<div id="navMenu">
+						<ul>
+							<li><a href="#">GIFs</a>
+								<ul>
+									<a id="PageSwap" href="Page1.html" target="_blank">Page 1 </a>
+									<a href="Page2.html" target="_blank">Page 2 </a>
+									<a href="Page3.html" target="_blank">Page 3 </a>
+									<a href="Page4.html" target="_blank">Page 4 </a>
+									<a href="Page5.html" target="_blank">Page 5 </a>
+								</ul>
+							</li>
+						</ul> 
+					</div>
+				</div> 	
+		
+		
+	</body>
+	
+
+	
+	
+</HTML>
